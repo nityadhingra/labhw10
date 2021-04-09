@@ -1,0 +1,64 @@
+
+body{
+	background-color: black;
+}
+
+.genreTag {
+  font-family: 'Jura', sans-serif;
+  padding:4px 8px;
+  border: 3px solid black;
+  margin: 4px;
+  border-radius: 12px;
+  border-color:#68BBE3;
+  background-color: #68BBE3;
+}
+
+.songContainer{
+  padding:16px 24px;
+  border:3px solid black;
+  margin:8px;
+  border-radius: 12px;
+  border-color:#dcd0ff; 
+
+}
+
+button{
+    font-family: 'Jura', sans-serif;
+	font-size: 20px;
+	background-color: #68BBE3;
+	padding: 15px 91px;
+	border-radius: 12px;
+	position: relative;
+	border-style: initial;
+	color: solid black;
+	
+	
+}
+
+h1{
+
+    font-family: 'Jura', sans-serif;
+	font-style: normal;
+	font-size: 40px;
+	position: relative;
+	text-align: center;
+	color:#dcd0ff ;
+	padding-left:35px;
+	
+}
+
+h2{
+	font-family: 'Jura', sans-serif;
+	font-style: normal;
+	font-size: 30px;
+	color:#dcd0ff ;
+}
+
+p {
+	font-family: 'Jura', sans-serif;
+	font-size: 20px;
+	color:#dcd0ff ;
+
+}
+
+
